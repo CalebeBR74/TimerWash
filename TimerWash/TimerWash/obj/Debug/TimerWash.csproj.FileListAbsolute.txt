@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\bin\Debug\TimerWash.exe.config
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\bin\Debug\TimerWash.exe
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\bin\Debug\TimerWash.pdb
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.Form1.resources
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.Properties.Resources.resources
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.exe
+C:\Users\Usuario\Documents\_Programas e diretorios\TimerWash\TimerWash\obj\Debug\TimerWash.pdb
